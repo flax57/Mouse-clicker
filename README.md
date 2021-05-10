@@ -3,6 +3,7 @@ tool to automate mouse clicking
 
 Official website :
 https://maxautoclicker.blogspot.com/
+
 https://maxautoclicker.blogspot.com/p/download-maxautoclicker-for-free.html
 
 Articles :
