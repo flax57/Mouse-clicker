@@ -1,7 +1,7 @@
 # Mouse-clicker
 tool to automate mouse clicking
 
-[Official website :] (https://sourceforge.net/projects/maxautoclicker/)
+[Official website :](https://sourceforge.net/projects/maxautoclicker/)
 
 Download Max Auto Clicker : https://maxautoclicker.blogspot.com/p/download-maxautoclicker-for-free.html
 
