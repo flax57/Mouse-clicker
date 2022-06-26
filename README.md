@@ -1,4 +1,4 @@
-# Mouse-clicker
+# Mouse auto clicker
 tool to automate mouse clicking
 
 It is a tool that can be used for training programs, games, and even web research. The simulated mouse click makes it easier to train your finger and hand movements, and it can be a great tool for those who need to improve their mouse clicking skills. It’s also a great tool for gaming, as it can simulate a mouse click for you in the background so that you can focus on the game instead of constantly pausing to click. This means that you can spend more time playing games, instead of stopping to click.
