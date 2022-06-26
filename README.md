@@ -7,9 +7,9 @@ It also records your mouse movements and plays back the recording when you click
 
 It is a useful tool if you want to improve your reflexes or train your fingers or arms. It is similar to other mouse clicker programs except that it is free and doesn't require any setup or configuration. It uses simple programming syntax, so you can easily make your own Auto Clicker scripts and extensions. The mouse simulator works best when used with a physical mouse, but you can simulate a mouse click with the keyboard if you wish.
 
-- [Max Auto Clicker - Official website](https://sourceforge.net/projects/maxautoclicker/)
-
 - [Download Max Auto Clicker for free](https://maxautoclicker.blogspot.com/p/download-maxautoclicker-for-free.html)
+
+- [Max Auto Clicker - Official website](https://sourceforge.net/projects/maxautoclicker/)
 
 Articles: 
 
