@@ -20,3 +20,7 @@ Articles:
 - [Max Auto Clicker software](https://linuxsensedotcf.blogspot.com/2021/05/maxautoclicker-mouse-auto-clicker.html)
 
 - [Mouse Auto Clicker for Ubuntu](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html)
+
+- [Auto Clicker for Android](https://maxautoclicker.blogspot.com/2022/06/auto-clicker-android-apk.html)
+
+- [Clicker Games](https://maxautoclicker.blogspot.com/2022/06/clicker-games.html)
