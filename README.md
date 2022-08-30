@@ -17,7 +17,7 @@ Articles:
 
 - [Auto Clicker](https://maxautoclicker.blogspot.com/p/auto-clicker.html)
 
-- [Max Auto Clicker software](https://linuxsensedotcf.blogspot.com/2021/05/maxautoclicker-mouse-auto-clicker.html)
+- [Auto Clicker for Linux Desktops](https://dev.to/hightech/mouse-auto-clicker-for-linux-desktops-1bi8)
 
 - [Mouse Auto Clicker for Ubuntu](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html)
 
